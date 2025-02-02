@@ -4,8 +4,8 @@ description: >-
   Short summary of the post
 author: qurious
 date: 2026-01-29 20:55:00 +0800
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
-tags: [TAG]
+categories: [intro, first]
+tags: [personal]
 ---
 
 ---
