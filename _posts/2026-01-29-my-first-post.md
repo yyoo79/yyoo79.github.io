@@ -3,7 +3,7 @@ title: Q First Post
 description: >-
   Short summary of the post
 author: qurious
-date: 2026-01-29 20:55:00 +0800
+date: 2025-01-29 20:55:00 +0800
 categories: [intro, first]
 tags: [personal]
 ---
