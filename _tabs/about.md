@@ -8,5 +8,5 @@ order: 4
 {: .prompt-tip }
 
 ---
-comments: false
+description: Short summary of the post.
 ---
