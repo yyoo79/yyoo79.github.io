@@ -1,11 +1,12 @@
 ---
 title: Q First Post
-date: 2026-01-29
+description: Short summary of the post
+author: yyoo79
+date: 2026-01-29 20:55:00 +0800
 categories: [TOP_CATEGORIE, SUB_CATEGORIE]
 tags: [TAG]     # TAG names should always be lowercase
 ---
-description: Short summary of the post
----
+
 
 # Welcome
 
