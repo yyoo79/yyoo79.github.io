@@ -1,5 +1,5 @@
 ---
-title: I passed the exam, today - My AWS Certified Cloud Practitioner 
+title: Today, I Passed The Exam - AWS Certified Cloud Practitioner CLF-C02 certification
 description: >-
   A chronicle of my three-month journey to achieving the AWS Certified Cloud Practitioner CLF-C02 certification, blending practical experience with focused study.
 author: qurious
