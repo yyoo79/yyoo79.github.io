@@ -16,8 +16,8 @@ As a software engineer, I've had the privilege of dipping my toes into the AWS e
 ## Study
 1. **Training** I took a live & online course provided by my company.
 2. **YouTube Exploration (Partial):** I ventured into a couple of lengthy YouTube tutorials. While I couldn't complete them due to their extensive duration, they offered valuable insights.
-  - https://www.youtube.com/watch?v=SOTamWNgDKc
-  - https://www.youtube.com/watch?v=JsmhEgIV1mQ
+  - (https://www.youtube.com/watch?v=SOTamWNgDKc)
+  - (https://www.youtube.com/watch?v=JsmhEgIV1mQ)
 3. **The Power of Practice Exams:** This was the cornerstone of my preparation. I tackled approximately 600-700 questions, embracing repetition as a tool for mastery.
     * **Active Recall:** I approached each question with active recall, guessing the answer before checking.
     * **Deep Dive Learning:** Incorrect answers were not setbacks, but opportunities. It's time to review the material, ensuring I understood not just the correct answer, but the rationale behind all four options.
